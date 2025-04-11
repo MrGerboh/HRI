@@ -1,0 +1,16 @@
+IMAGE
+<*, *, *, *>:  img/rainy.png
+----
+TEXT
+<*,*,it,*>: Sono previste piogge per tutto il giorno. Possibili disagi sulle strade
+<*,*,*,*>: Rainfall is expected thoughout the day. Possible disruptions on the roads
+----
+TTS
+<*,*,it,*>: Sono previste piogge per tutto il giorno. Possibili disagi sulle strade
+<*,*,*,*>: Rainfall is expected thoughout the day. Possible disruptions on the roads
+----
+BUTTONS
+back
+<*,*,it,*>: Indietro
+<*,*,*,*>: Back
+----

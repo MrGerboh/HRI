@@ -1,0 +1,21 @@
+IMAGE
+<*, *, *, *>:  img/diaglogo.jpg
+----
+TEXT
+<*,*,it,*>: Quale categoria vuoi provare?
+<*,*,*,*>: Which category will you choose?
+----
+TTS
+<*,*,it,*>: Quale categoria vuoi provare?
+<*,*,*,*>: Which category will you choose?
+----
+BUTTONS
+art
+<*,*,*,*>:  Art
+pop
+<*,*,*,*>:  Pop Culture
+science
+<*,*,*,*>:  Science
+back
+<*,*,*,*>:  Back
+----

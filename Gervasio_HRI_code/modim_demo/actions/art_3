@@ -1,0 +1,23 @@
+IMAGE
+<*,*,*,*>:  img/scultura.jpg
+----
+TEXT
+<*,*,it,*>: Chi ha scolpito quest'opera?
+<*,*,*,*>:  Who sculted this statue? 
+----
+TTS
+<*,*,it,*>: Chi ha scolpito quest'opera?
+<*,*,*,*>:  Who sculted this statue? 
+----
+BUTTONS
+wrong1
+<*,*,it,*>: Michelangelo
+<*,*,*,*>:  Michelangelo
+correct
+<*,*,it,*>: Bernini
+<*,*,*,*>:  Bernini
+wrong2
+<*,*,it,*>: Borromini
+<*,*,*,*>:  Borromini
+----
+

@@ -1,0 +1,23 @@
+IMAGE
+<*,*,*,*>:  img/ph.jpg
+----
+TEXT
+<*,*,it,*>: Qual è il range del PH degli acidi?
+<*,*,*,*>:  What is the PH range of acids? 
+----
+TTS
+<*,*,it,*>: Qual è il range del PH degli acidi?
+<*,*,*,*>:  What is the PH range of acids? 
+----
+BUTTONS
+wrong1
+<*,*,it,*>: 3 - 10
+<*,*,*,*>:  3 - 10
+correct
+<*,*,it,*>: 0 - 7
+<*,*,*,*>:  0 - 7
+wrong2
+<*,*,it,*>: 7 - 14
+<*,*,*,*>:  7 - 14
+----
+

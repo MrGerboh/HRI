@@ -1,0 +1,23 @@
+IMAGE
+<*,*,*,*>:  img/evol.png
+----
+TEXT
+<*,*,it,*>: Qual è il nome scientifico degli umani?
+<*,*,*,*>:  What is the scientific name of humans?
+----
+TTS
+<*,*,it,*>: Qual è il nome scientifico degli umani?
+<*,*,*,*>:  What is the scientific name of humans?
+----
+BUTTONS
+wrong1
+<*,*,it,*>: Mangifera indica
+<*,*,*,*>:  Mangifera indica
+wrong2
+<*,*,it,*>: Homo species
+<*,*,*,*>:  Homo species
+correct
+<*,*,it,*>: Homo sapiens
+<*,*,*,*>:  Homo sapiens
+----
+

@@ -1,0 +1,16 @@
+IMAGE
+<*, *, *, *>:  img/sun.png
+----
+TEXT
+<*,*,it,*>: Oggi sara' una giornata calda e soleggiata. Le temperature supereranno i 35 gradi. Si raccomanda di non uscire di casa durante le ore piu' calde della giornata e di bere molta acqua
+<*,*,*,*>: Today will be a warm and sunny day. Temperatures are expected to be higher than 35 degrees. It is recommended to not leave the house during the hottest hours of the day and to drink a lot of water
+----
+TTS
+<*,*,it,*>: Oggi sara' una giornata calda e soleggiata. Le temperature supereranno i 35 gradi. Si raccomanda di non uscire di casa durante le ore piu' calde della giornata e di bere molta acqua
+<*,*,*,*>: Today will be a warm and sunny day. Temperatures are expected to be higher than 35 degrees. It is recommended to not leave the house during the hottest hours of the day and to drink a lot of water
+----
+BUTTONS
+back
+<*,*,it,*>: Indietro
+<*,*,*,*>: Back
+----

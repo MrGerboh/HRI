@@ -1,0 +1,24 @@
+TEXT_title
+<*,*,it,*>: Mi dispiace! Non hai superato il test! Vuoi riprovare?
+<*,*,*,*>: Sorry! You didn't pass the test! Do you want to retry?
+----
+IMAGE
+<*,*,*,*>: img/sad.png
+----
+TEXT
+<*,*,it,*>: Mi dispiace! Non hai superato il test! Vuoi riprovare?
+<*,*,*,*>: Sorry! You didn't pass the test! Do you want to retry?
+----
+TTS
+<*,*,it,*>: Mi dispiace! Non hai superato il test! Vuoi riprovare?
+<*,*,*,*>: Sorry! You didn't pass the test! Do you want to retry?
+----
+BUTTONS
+try
+<*,*,it,*>: Riprova
+<*,*,*,*>:  Try again
+back
+<*,*,it,*>: Indietro
+<*,*,*,*>:  Go back
+----
+

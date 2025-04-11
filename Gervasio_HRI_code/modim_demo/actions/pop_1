@@ -1,0 +1,23 @@
+IMAGE
+<*,*,*,*>:  img/gameboy.jpg
+----
+TEXT
+<*,*,it,*>: Quale compagnia ha inventato il Game Boy?
+<*,*,*,*>:  Which company manufactured the Game Boy?
+----
+TTS
+<*,*,it,*>: Quale compagnia ha inventato il Game Boy?
+<*,*,*,*>:  Which company manufactured the Game Boy?
+----
+BUTTONS
+wrong1
+<*,*,it,*>: Sony
+<*,*,*,*>:  Sony
+wrong2
+<*,*,it,*>: Microsoft
+<*,*,*,*>:  Microsoft
+correct
+<*,*,it,*>: Nintendo
+<*,*,*,*>:  Nintendo
+----
+

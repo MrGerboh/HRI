@@ -1,0 +1,16 @@
+IMAGE
+<*, *, *, *>:  img/sun.png
+----
+TEXT
+<*,*,it,*>: Il Sole emette un suono, ma noi umani non lo possiamo sentire
+<*,*,*,*>: The Sun makes a sound, but we humans can't hear it
+----
+TTS
+<*,*,it,*>: Il Sole emette un suono, ma noi umani non lo possiamo sentire
+<*,*,*,*>: The Sun makes a sound, but we humans can't hear it
+----
+BUTTONS
+back
+<*,*,it,*>: Indietro
+<*,*,*,*>: Back
+----

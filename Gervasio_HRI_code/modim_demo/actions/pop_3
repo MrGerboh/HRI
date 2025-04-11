@@ -1,0 +1,23 @@
+IMAGE
+<*,*,*,*>:  img/hg.jpg
+----
+TEXT
+<*,*,it,*>: Come si chiama l'attrice protagonista di Hunger Games?
+<*,*,*,*>:  What is the name of the actress of the Hunger Games movies? 
+----
+TTS
+<*,*,it,*>: Come si chiama l'attrice protagonista di Hunger Games?
+<*,*,*,*>:  What is the name of the actress of the Hunger Games movies? 
+----
+BUTTONS
+wrong1
+<*,*,it,*>: Miley Cyrus
+<*,*,*,*>:  Miley Cyrus
+correct
+<*,*,it,*>: Jennifer Lawrence
+<*,*,*,*>:  Jennifer Lawrence
+wrong2
+<*,*,it,*>: Shailene Woodley
+<*,*,*,*>:  Shailene Woodley
+----
+

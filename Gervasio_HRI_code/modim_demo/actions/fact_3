@@ -1,0 +1,16 @@
+IMAGE
+<*, *, *, *>:  img/terminator.png
+----
+TEXT
+<*,*,it,*>: Lo script di "Terminator" e' stato venduto per solo 1 dollaro
+<*,*,*,*>: “The Terminator” script was sold for $1.
+----
+TTS
+<*,*,it,*>: Lo script di "Terminator" e' stato venduto per solo 1 dollaro
+<*,*,*,*>: “The Terminator” script was sold for $1.
+----
+BUTTONS
+back
+<*,*,it,*>: Indietro
+<*,*,*,*>: Back
+----

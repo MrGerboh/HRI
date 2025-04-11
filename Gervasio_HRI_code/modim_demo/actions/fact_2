@@ -1,0 +1,16 @@
+IMAGE
+<*, *, *, *>:  img/sequoia.png
+----
+TEXT
+<*,*,it,*>: La parola inglese piu' corta che contiene tutte e cinque le vocali e' "sequoia" 
+<*,*,*,*>: The shortest English word that contains the five vowels is "sequoia"
+----
+TTS
+<*,*,it,*>: La parola inglese piu' corta che contiene tutte e cinque le vocali e' "sequoia" 
+<*,*,*,*>: The shortest English word that contains the five vowels is "sequoia"
+----
+BUTTONS
+back
+<*,*,it,*>: Indietro
+<*,*,*,*>: Back
+----

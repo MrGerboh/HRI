@@ -1,0 +1,23 @@
+IMAGE
+<*,*,*,*>:  img/force.jpg
+----
+TEXT
+<*,*,it,*>: Qual è l'unita' della forza nel S.I?
+<*,*,*,*>:  What is the S.I unit of force? 
+----
+TTS
+<*,*,it,*>: Qual è l'unita' della forza nel S.I?
+<*,*,*,*>:  What is the S.I unit of force? 
+----
+BUTTONS
+correct
+<*,*,it,*>: Newton
+<*,*,*,*>:  Newton
+wrong2
+<*,*,it,*>: Newton meter
+<*,*,*,*>:  Newton meter
+wrong1
+<*,*,it,*>: Joule
+<*,*,*,*>:  Joule
+----
+

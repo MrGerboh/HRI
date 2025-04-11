@@ -1,0 +1,16 @@
+IMAGE
+<*, *, *, *>:  img/cloudy.jpeg
+----
+TEXT
+<*,*,it,*>: Oggi il cielo rimarra' coperto tutto il giorno. Le temperature non saranno alte. Possibilita' di qualche acquazzone durante il pomeriggio
+<*,*,*,*>: Today it will be cloudy all day. Temperatures will not be high. Isolated showers will be possible during the afternoon
+----
+TTS
+<*,*,it,*>: Oggi il cielo rimarra' coperto tutto il giorno. Le temperature non saranno alte. Possibilita' di qualche acquazzone durante il pomeriggio
+<*,*,*,*>: Today it will be cloudy all day. Temperatures will not be high. Isolated showers will be possible during the afternoon
+----
+BUTTONS
+back
+<*,*,it,*>: Indietro
+<*,*,*,*>: Back
+----

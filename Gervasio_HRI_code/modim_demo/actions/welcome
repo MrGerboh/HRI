@@ -1,0 +1,17 @@
+IMAGE
+<*, *, *, *>:  img/welcome.jpg
+----
+TEXT
+<*,*,it,*>: Benvenuto! Io sono Pepper il Tutor. Usa il tablet per interagire con me.
+<*,*,*,*>:  Welcome! I am Pepper the Tutor. Use the tablet to interact with me.
+----
+TTS
+<*,*,it,*>: Benvenuto! Io sono Pepper il Tutor. Usa il tablet per interagire con me.
+<*,*,*,*>:  Welcome! I am Pepper the Tutor. Use the tablet to interact with me.
+----
+BUTTONS
+start
+<*,*,it,*>: Inizia
+<*,*,*,*>:  Start
+----
+

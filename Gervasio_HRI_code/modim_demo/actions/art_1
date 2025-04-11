@@ -1,0 +1,23 @@
+IMAGE
+<*,*,*,*>:  img/pantheon.jpg
+----
+TEXT
+<*,*,it,*>: Come si chiama questo monumento?
+<*,*,*,*>:  What is the name of this monument? 
+----
+TTS
+<*,*,it,*>: Come si chiama questo monumento?
+<*,*,*,*>:  What is the name of this monument?
+----
+BUTTONS
+wrong1
+<*,*,it,*>: Colosseo
+<*,*,*,*>:  Colosseum
+wrong2
+<*,*,it,*>: Torre di Pisa
+<*,*,*,*>:  Pisa Tower
+correct
+<*,*,it,*>: Pantheon
+<*,*,*,*>:  Pantheon
+----
+

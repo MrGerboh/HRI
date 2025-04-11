@@ -1,0 +1,23 @@
+IMAGE
+<*,*,*,*>:  img/starrynight.jpg
+----
+TEXT
+<*,*,it,*>: Chi ha dipinto questo quadro?
+<*,*,*,*>:  Who painted this picture? 
+----
+TTS
+<*,*,it,*>: Chi ha dipinto questo quadro?
+<*,*,*,*>:  Who painted this picture?
+----
+BUTTONS
+correct
+<*,*,it,*>: Van Gogh
+<*,*,*,*>:  Van Gogh
+wrong1
+<*,*,it,*>: Monet
+<*,*,*,*>:  Monet
+wrong2
+<*,*,it,*>: Renoir
+<*,*,*,*>:  Renoir
+----
+

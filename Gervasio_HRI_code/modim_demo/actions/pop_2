@@ -1,0 +1,23 @@
+IMAGE
+<*,*,*,*>:  img/db.png
+----
+TEXT
+<*,*,it,*>: Qual è l'equivalente giapponese dei fumetti?
+<*,*,*,*>:  What is the Japanese equivalent of comics called? 
+----
+TTS
+<*,*,it,*>: Qual è l'equivalente giapponese dei fumetti?
+<*,*,*,*>:  What is the Japanese equivalent of comics called? 
+----
+BUTTONS
+correct
+<*,*,it,*>: Manga
+<*,*,*,*>:  Manga
+wrong2
+<*,*,it,*>: Anime
+<*,*,*,*>:  Anime
+wrong1
+<*,*,it,*>: Graphic Novel
+<*,*,*,*>:  Graphic Novel
+----
+
